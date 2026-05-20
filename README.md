@@ -117,7 +117,7 @@ Tech used:
 # 🚀 Featured Projects
 
 ## 🏫 Aavishkar Institute Management System
-🔗 https://github.com/TanuSharma08/aavishkar-institute-aspnet
+🔗 [https://github.com/TanuSharma08/aavishkar-institute-aspnet](https://github.com/TanuSharma08/aavishkar-institute-admission-system-aspnet)
 
 Tech Stack:
 `ASP.NET` `C#` `SQL Server`
