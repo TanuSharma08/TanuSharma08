@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D79C7&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Tanu+Sharma;BCA+Graduate+%7C+MCA+Student;Java+%7C+Spring+Boot+%7C+DSA;Backend+Development+Enthusiast)](https://git.io/typing-svg)
+# Hi 👋, I'm Tanu Sharma
+
+**BCA Graduate | MCA Student**  
+**Java | Spring Boot | DSA**  
+*Backend Development Enthusiast*
 
 </div>
 
@@ -187,6 +191,7 @@ Features:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🧑‍💻_Portfolio-22c55e?style=for-the-badge)](https://TanuSharma08.github.io) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanu-sharma-185a09277/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanuSharma08) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma08.ts@gmail.com)
