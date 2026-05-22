@@ -176,6 +176,8 @@ Features:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanuSharma08&layout=compact&theme=light)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=TanuSharma08&theme=light)
+
 </div>
 
 ---
