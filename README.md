@@ -193,7 +193,7 @@ Features:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🧑‍💻_Portfolio-22c55e?style=for-the-badge)](https://tanu-sharma-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🧑‍💻_Portfolio-22c55e?style=for-the-badge)](https://tanu-sharma-portfolio.netlify.app/) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanu-sharma-185a09277/) &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanuSharma08) &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharma08.ts@gmail.com)
