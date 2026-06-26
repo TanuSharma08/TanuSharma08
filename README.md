@@ -55,6 +55,16 @@ I enjoy understanding how systems work internally and building practical real-wo
 
 ---
 
+## 📈 WebMobi 360
+### SEO Intern
+📍 Remote | Mar 2024 – May 2024
+
+- Worked on SEO optimization and technical audits
+- Used SEMrush for keyword analysis
+- Managed LinkedIn content and digital marketing activities
+
+---
+
 ## 🌐 Confederation of Global Innovators
 ### Web Developer Intern
 📍 Remote | Aug 2023 – Feb 2024
@@ -66,16 +76,6 @@ Worked on multiple frontend and ASP.NET projects including:
 
 Tech used:
 `ASP.NET` `HTML` `CSS` `JavaScript`
-
----
-
-## 📈 WebMobi 360
-### SEO Intern
-📍 Pune | Mar 2024 – May 2024
-
-- Worked on SEO optimization and technical audits
-- Used SEMrush for keyword analysis
-- Managed LinkedIn content and digital marketing activities
 
 ---
 
